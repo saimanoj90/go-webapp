@@ -1,0 +1,4 @@
+## commands used
+go mod init github.com/saimanoj90/go-webapp
+go get https://github.com/cortesi/modd
+go get https://github.com/cosmtrek/air
